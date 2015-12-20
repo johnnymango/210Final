@@ -1,0 +1,194 @@
+{
+  "specification": {
+    "[student_id]": {
+      "grade_level": "numeric grade level between 1 and 6", 
+      "score": "Test score, numeric, between 1 and 4", 
+      "school_id": "school id"
+    }
+  }, 
+  "data": {
+    "1": {
+      "grade_level": 1, 
+      "score": 3, 
+      "school_id": "PS0001"
+    }, 
+    "2": {
+      "grade_level": 1, 
+      "score": 4, 
+      "school_id": "PS0001"
+    }, 
+    "3": {
+      "grade_level": 1, 
+      "score": 2, 
+      "school_id": "PS0001"
+    }, 
+    "4": {
+      "grade_level": 1, 
+      "score": 4, 
+      "school_id": "PS0001"
+    }, 
+    "618": {
+      "grade_level": 4, 
+      "score": 1, 
+      "school_id": "PS0002"
+    }, 
+    "619": {
+      "grade_level": 4, 
+      "score": 2, 
+      "school_id": "PS0002"
+    }, 
+    "620": {
+      "grade_level": 4, 
+      "score": 3, 
+      "school_id": "PS0002"
+    }, 
+    "621": {
+      "grade_level": 4, 
+      "score": 1, 
+      "school_id": "PS0002"
+    }, 
+    "622": {
+      "grade_level": 4, 
+      "score": 2, 
+      "school_id": "PS0002"
+    }, 
+    "623": {
+      "grade_level": 4, 
+      "score": 4, 
+      "school_id": "PS0002"
+    }, 
+    "624": {
+      "grade_level": 1, 
+      "score": 3, 
+      "school_id": "PS0003"
+    }, 
+    "625": {
+      "grade_level": 1, 
+      "score": 3, 
+      "school_id": "PS0003"
+    }, 
+    "626": {
+      "grade_level": 1, 
+      "score": 1, 
+      "school_id": "PS0003"
+    }, 
+    "627": {
+      "grade_level": 1, 
+      "score": 2, 
+      "school_id": "PS0003"
+    }, 
+    "628": {
+      "grade_level": 1, 
+      "score": 2, 
+      "school_id": "PS0003"
+    }, 
+    "630": {
+      "grade_level": 1, 
+      "score": 4, 
+      "school_id": "PS0003"
+    }, 
+    "631": {
+      "grade_level": 1, 
+      "score": 4, 
+      "school_id": "PS0003"
+    }, 
+    "632": {
+      "grade_level": 1, 
+      "score": 3, 
+      "school_id": "PS0003"
+    }, 
+    "633": {
+      "grade_level": 1, 
+      "score": 1, 
+      "school_id": "PS0003"
+    }, 
+    "634": {
+      "grade_level": 1, 
+      "score": 3, 
+      "school_id": "PS0003"
+    },
+ "1221": {
+      "grade_level": 3, 
+      "score": 1, 
+      "school_id": "PS0004"
+    }, 
+    "1224": {
+      "grade_level": 3, 
+      "score": 4, 
+      "school_id": "PS0004"
+    }, 
+    "1225": {
+      "grade_level": 3, 
+      "score": 2, 
+      "school_id": "PS0004"
+    }, 
+    "1227": {
+      "grade_level": 3, 
+      "score": 2, 
+      "school_id": "PS0004"
+    }, 
+    "1228": {
+      "grade_level": 3, 
+      "score": 4, 
+      "school_id": "PS0004"
+    }, 
+    "1229": {
+      "grade_level": 3, 
+      "score": 1, 
+      "school_id": "PS0004"
+    }, 
+    "1230": {
+      "grade_level": 3, 
+      "score": 3, 
+      "school_id": "PS0004"
+    }, 
+    "1231": {
+      "grade_level": 3, 
+      "score": 3, 
+      "school_id": "PS0004"
+    }, 
+    "1232": {
+      "grade_level": 3, 
+      "score": 3, 
+      "school_id": "PS0004"
+    }, 
+    "1233": {
+      "grade_level": 3, 
+      "score": 2, 
+      "school_id": "PS0004"
+    }, 
+   "1387": {
+      "grade_level": 4, 
+      "score": 3, 
+      "school_id": "PS0005"
+    }, 
+    "1388": {
+      "grade_level": 4, 
+      "score": 2, 
+      "school_id": "PS0005"
+    }, 
+    "1389": {
+      "grade_level": 1, 
+      "score": 4, 
+      "school_id": "PS0006"
+    }, 
+    "1392": {
+      "grade_level": 1, 
+      "score": 3, 
+      "school_id": "PS0006"
+    }, 
+    "1393": {
+      "grade_level": 1, 
+      "score": 3, 
+      "school_id": "PS0006"
+    }, 
+    "1394": {
+      "grade_level": 1, 
+      "score": 2, 
+      "school_id": "PS0006"
+    }, 
+    "1395": {
+      "grade_level": 1, 
+      "score": 2, 
+      "school_id": "PS0006"
+    }}}
