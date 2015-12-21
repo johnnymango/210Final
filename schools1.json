@@ -22,7 +22,7 @@
         "5": 57
       }, 
       "school_id": "PS0001", 
-      "district_code": 444
+      "district_code": 60
     }, 
     {
       "students": 291, 
@@ -34,7 +34,7 @@
         "4": 66
       }, 
       "school_id": "PS0002", 
-      "district_code": 120
+      "district_code": 60
     }, 
     {
       "students": 485, 
@@ -47,7 +47,7 @@
         "5": 91
       }, 
       "school_id": "PS0003", 
-      "district_code": 150
+      "district_code": 60
     }, 
     {
       "students": 187, 
@@ -148,4 +148,29 @@
       }, 
       "school_id": "PS0011", 
       "district_code": 266
+    }, 
+    {
+      "students": 298, 
+      "per_student_spending": 29893, 
+      "grades": {
+        "1": 77, 
+        "2": 68, 
+        "3": 71, 
+        "4": 82
+      }, 
+      "school_id": "PS0012", 
+      "district_code": 26
+    }, 
+    {
+      "students": 100, 
+      "per_student_spending": 29417, 
+      "grades": {
+        "1": 22, 
+        "2": 28, 
+        "3": 27, 
+        "4": 23
+      }, 
+      "school_id": "PS0013", 
+      "district_code": 84
+
  } ]}

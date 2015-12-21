@@ -8,12 +8,12 @@
   }, 
   "data": {
     "1": {
-      "grade_level": 1, 
+      "grade_level": 5, 
       "score": 3, 
       "school_id": "PS0001"
     }, 
     "2": {
-      "grade_level": 1, 
+      "grade_level": 5, 
       "score": 4, 
       "school_id": "PS0001"
     }, 
@@ -23,7 +23,7 @@
       "school_id": "PS0001"
     }, 
     "4": {
-      "grade_level": 1, 
+      "grade_level": 5, 
       "score": 4, 
       "school_id": "PS0001"
     }, 
